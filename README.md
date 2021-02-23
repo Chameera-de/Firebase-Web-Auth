@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/firebase/firebaseui-web.svg?branch=master)](https://travis-ci.org/firebase/firebaseui-web)
+[![Build Status]()]()
 
 # FirebaseUI for Web — Auth
 
