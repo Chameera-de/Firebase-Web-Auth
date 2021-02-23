@@ -1,5 +1,3 @@
-[![Build Status](https://github.com/Chameera-de)](https://chameera-de.github.io)
-
 # FirebaseUI for Web — Auth
 
 FirebaseUI is an open-source JavaScript library for Web that provides simple,
